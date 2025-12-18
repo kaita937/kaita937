@@ -19,26 +19,3 @@ Beyond programming, I also have experience in **video editing** and **graphic de
 * 💻 Software Development
 * 📊 Data & Technology
 * 🎨 Creative Design
-
----
-
-## 🛠️ Skills
-
-* **Programming & Tech**
-
-  * Python (Machine Learning fundamentals)
-  * Basic Web Development
-
-* **Creative Skills**
-
-  * Video Editing
-  * Graphic Design
-
----
-
-## 🌱 Currently Learning
-
-* Machine Learning concepts & implementation
-* Improving problem-solving and coding skills
-
----
