@@ -42,11 +42,3 @@ Beyond programming, I also have experience in **video editing** and **graphic de
 * Improving problem-solving and coding skills
 
 ---
-
-## 📫 Connect With Me
-
-* 📸 Instagram: [@_.kaita](https://instagram.com/_.kaita)
-
----
-
-⭐ *Feel free to explore my repositories and follow my learning journey!*
