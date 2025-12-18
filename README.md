@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm **Zaki Yamani Quthub**
 
-<!--
-**kaita937/kaita937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Informatics Engineering Student** (Class of 2024)
+🏫 **Universitas Sriwijaya**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an Informatics Engineering student with a strong interest in **Machine Learning** and its application in solving real-world problems. I enjoy learning new technologies, building projects, and continuously improving my technical and creative skills.
+
+Beyond programming, I also have experience in **video editing** and **graphic design**, which helps me present ideas, projects, and products in a more engaging and professional way.
+
+---
+
+## 🧠 Interests
+
+* 🤖 Machine Learning
+* 💻 Software Development
+* 📊 Data & Technology
+* 🎨 Creative Design
+
+---
+
+## 🛠️ Skills
+
+* **Programming & Tech**
+
+  * Python (Machine Learning fundamentals)
+  * Basic Web Development
+
+* **Creative Skills**
+
+  * Video Editing
+  * Graphic Design
+
+---
+
+## 🌱 Currently Learning
+
+* Machine Learning concepts & implementation
+* Improving problem-solving and coding skills
+
+---
+
+## 📫 Connect With Me
+
+* 📸 Instagram: [@_.kaita](https://instagram.com/_.kaita)
+
+---
+
+⭐ *Feel free to explore my repositories and follow my learning journey!*
