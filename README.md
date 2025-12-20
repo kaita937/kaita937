@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Zaki Yamani Quthub**
 
-🎓 **Informatics Engineering Student** (Class of 2024)
-🏫 **Universitas Sriwijaya**
+**Informatics Engineering Student** (Class of 2024)
+**Universitas Sriwijaya**
 
 ---
 
