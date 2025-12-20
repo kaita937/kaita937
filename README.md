@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an Informatics Engineering student with a strong interest in **Machine Learning** and its application in solving real-world problems. I enjoy learning new technologies, building projects, and continuously improving my technical and creative skills.
 
@@ -13,7 +13,7 @@ Beyond programming, I also have experience in **video editing** and **graphic de
 
 ---
 
-## 🧠 Interests
+## Interests
 
 * 🤖 Machine Learning
 * 💻 Software Development
